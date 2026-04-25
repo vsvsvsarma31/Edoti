@@ -2,4 +2,4 @@
 
 Thinking about new project
 Projects:
-1. Reminder app
+ML need to be done
